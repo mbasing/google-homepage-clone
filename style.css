@@ -177,7 +177,10 @@ li {
 
 #languages li {
   margin-right: 1rem;
-  color: #1a0dab;
+}
+
+#languages li a {
+  color: #1a0dab !important;
 }
 
 #languages li:hover {
